@@ -14,6 +14,10 @@ The repository contains a single model notebook and CSV data files:
 - `train.csv` — training data.
 - `test.csv` — test data.
 
+## Preview
+
+![Neural-network notebook chart](https://noah-readme-assets-v3.vercel.app/Neural-Network-From-Scratch/nb__model.ipynb__cell17__out1.png)
+
 ## Tech stack
 
 - Python
