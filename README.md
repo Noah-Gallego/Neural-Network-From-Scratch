@@ -2,6 +2,10 @@
 
 A small notebook-based neural-network project that uses NumPy and pandas to classify handwritten digits.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas&theme=light" alt="Python, Jupyter, NumPy, and pandas" />
+</p>
+
 ## Overview
 
 The repository contains a single model notebook and CSV data files:
