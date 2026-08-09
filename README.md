@@ -21,9 +21,18 @@ The repository contains a single model notebook and CSV data files:
 - NumPy
 - pandas
 
+### Important libraries
+
+- `numpy` for array operations and model calculations
+- `pandas` for loading the CSV datasets
+- `matplotlib` for notebook visualizations
+- `tqdm` for progress reporting
+
 ## Usage
 
 Open `model.ipynb` in Jupyter and run the notebook cells with `train.csv` and `test.csv` available in the repository root.
+
+The notebook and its datasets are the primary project links; no browser demo is provided.
 
 ## Status
 
