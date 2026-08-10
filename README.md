@@ -18,20 +18,6 @@ The repository contains a single model notebook and CSV data files:
 
 ![Neural-network notebook chart](https://noah-readme-assets-v3.vercel.app/Neural-Network-From-Scratch/nb__model.ipynb__cell17__out1.png)
 
-## Tech stack
-
-- Python
-- Jupyter Notebook
-- NumPy
-- pandas
-
-### Important libraries
-
-- `numpy` for array operations and model calculations
-- `pandas` for loading the CSV datasets
-- `matplotlib` for notebook visualizations
-- `tqdm` for progress reporting
-
 ## Usage
 
 Open `model.ipynb` in Jupyter and run the notebook cells with `train.csv` and `test.csv` available in the repository root.
