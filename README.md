@@ -27,3 +27,16 @@ The notebook and its datasets are the primary project links; no browser demo is 
 ## Status
 
 This repository is a compact notebook project. No automated test suite or environment specification is included.
+
+> [!TIP]
+> Keep `train.csv` and `test.csv` beside `model.ipynb` when opening the notebook; the documented workflow expects repository-root data paths.
+
+## Workflow
+
+```mermaid
+flowchart LR
+    A[train.csv and test.csv] --> B[model.ipynb]
+    B --> C[NumPy and pandas preprocessing]
+    C --> D[Neural-network training]
+    D --> E[Handwritten-digit classification]
+```
